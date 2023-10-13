@@ -1,4 +1,5 @@
 ## Lab 1: Population Growth
+** It's a Project from Harvard University's CS50’s Introduction to Computer Science Program. **
 
 Determine how long it takes for a population to reach a particular size.
 
